@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands unhappy changes, or Suddaine alteration. Wherein is contained two treatises, and one petition.  The first concernes the sweet blessing of peace, which we lately injoyed.  The second concerns the troubles and distractions which this whole kingdom is now in, by reason of the perilous times.  The third is Englands petition to heaven for peace / written for the benefit of all them that have a true desire to live at peace by Lavvrence Price.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43705</idno><idno type="EEBO-CITATION">690988928</idno>
+  <idno type="VID">211655</idno>
+  <idno type="EEBO-PROQUEST">2248529101</idno>
+  
+            <idno type="OCLC"> 690988928</idno>
+            <idno type="OCLC">ocn 690988928</idno>
+            <idno type="STC">Wing P3359A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211655)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2983:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands unhappy changes, or Suddaine alteration. Wherein is contained two treatises, and one petition.  The first concernes the sweet blessing of peace, which we lately injoyed.  The second concerns the troubles and distractions which this whole kingdom is now in, by reason of the perilous times.  The third is Englands petition to heaven for peace / written for the benefit of all them that have a true desire to live at peace by Lavvrence Price.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Grove on Snow-Hill, neere the Sarazens Head,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 9 misnumbered 19.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:211655:1"/>
+            <pb facs="tcp:211655:2"/>
+            <pb facs="tcp:211655:2"/>
+            <pb facs="tcp:211655:3"/>
+            <pb facs="tcp:211655:3"/>
+            <p>ENGLANDS Unhappy Changes, OR, Suddaine Alteration.</p>
+            <p>Wherein is contained two Treatises, and one Petition.</p>
+            <p>
+               <hi>The first</hi> Concernes the sweet Blessing of Peace, which we lately injoyed.</p>
+            <p>
+               <hi>The second</hi> Concerns the troubles and distractions which this whole Kingdom is now in, by reason of these perilous times.</p>
+            <p>
+               <hi>The third</hi> Is <hi>Englands</hi> Petition to <hi>heaven</hi> for <hi>peace</hi>
+            </p>
+            <p>Written for the benefit of all them that have a true desire to live at PEACE.</p>
+            <p>BY LAVVRENCE PRICE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F. Grove,</hi> on Snow-Hill, neere the Sarazens Head. 1648.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:211655:4"/>
+            <pb n="3" facs="tcp:211655:4"/>
+            <head>The Epistle.</head>
+            <opener>
+               <salute>COurteous Reader, and hearers,</salute>
+            </opener>
+            <p>I am very much grieved that I have no good news to ac<g ref="char:EOLhyphen"/>commodate you withall, yet being in a manner en<g ref="char:EOLhyphen"/>gaged, to write unto you such news, which I partly know by experience to be true, I have imboldned my self to present unto the view of the world, this lit<g ref="char:EOLhyphen"/>tle booke of mine, called, <hi>Englands unhappy changes, or feare of a sudden alteration,</hi> which is like to insue, except the Lord of his mercy prevent it: Wherein you may behold as in a pro<g ref="char:EOLhyphen"/>spective-glasse, the manifest troubles and calamities of this our bleeding Kingdome.</p>
+            <p>It is a picture, not drawne to the life, but to the death of many thousand late valiant-hearted <hi>En<g ref="char:EOLhyphen"/>glish-men,</hi> but hoping that God in his good time, will bind up the wounds, of this broken-hearted king<g ref="char:EOLhyphen"/>dome.</p>
+            <p>I, the Author of this booke, doe wish to all them that love Gods word, and true Religion, true peace in this world, and in the world to come eternall hap<g ref="char:EOLhyphen"/>pinesse.</p>
+            <closer>
+               <signed>Yours to command, so long as you obey Gods Commandements. LAWRENCE PRICE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:211655:5"/>
+            <head>
+               <hi>Englands</hi> unhappy changes OR, Sudden Alteration.</head>
+            <p>FAmine, Fire, and the Sword, have long time acted their bloody Tragedies, in many a forraigne Nation and Country, as it is known to the Christian world; <hi>Hun<g ref="char:EOLhyphen"/>garia</hi> hath been terrified by the Sword, <hi>Po<g ref="char:EOLhyphen"/>land</hi> hath been wasted by fire, <hi>Bohemia</hi> hath been wasted by fire and sword, <hi>France</hi> hath been bloodily massacred, and <hi>Germany</hi> hath had a long continuing Famine.</p>
+            <p>In all which time <hi>England</hi> hath flourished like a beautifull bay-tree, planted by the ri<g ref="char:EOLhyphen"/>ver side, whose leaves withered not at any season.</p>
+            <p>Never was Kingdome or Nation indued with more store of heavenly and earthly blessings, then was this Island of <hi>England,</hi> as namely the light of the Gospell to illumi<g ref="char:EOLhyphen"/>nate our soules, Gods holy word to direct our waies and actions, faith, hope, &amp; cha<g ref="char:EOLhyphen"/>rity, abounded in the hearts of the people,
+<pb n="5" facs="tcp:211655:5"/>brethren held fast in the bonds of amity, vows and promises were faithfully kept, and neighbours did lovingly agree together; then was hatred, envy, and malice, held in derision; then was talking without lying, love without flattering, joy without sor<g ref="char:EOLhyphen"/>rowing, and true peace without Civill war, and dissention.</p>
+            <p>Now, whilst these golden dayes of peace did continue, English-men behaved them<g ref="char:EOLhyphen"/>selves so bravely abroad, that the whole world stood in feare of them. The very Heathens, Pagans, Turks, Jews, and Infi<g ref="char:EOLhyphen"/>dells, did even tremble to hear of our Navy by Sea, and our Army by Land; for by the noble valour of our trusty friends, were our forraigne enemies subdued; by them were the Spaniard chased, the French tamed, and the Irish Rebells kept in subjection. And thus did our Land for many years together increase in happinesse, and far exceed other Kingdoms and Provinces, having all things at will that mens hearts would wish for, or their tongues desire.</p>
+            <p>But now behold, here comes a sudden al<g ref="char:EOLhyphen"/>teration which hath turned our joy into sorrow, our mirth into mourning, and our peace into war.</p>
+            <pb n="6" facs="tcp:211655:6"/>
+            <p> Satan that old enemy of mankind, having made as it were, a bargaine with the sins of this Nation, whereby to worke our ever<g ref="char:EOLhyphen"/>lasting destruction and overthrow; These two Malignants, Sin and the Devil, strives to get the upper-hand of us all, and so beganne Englands woes.</p>
+            <p>And now is our Land in generall distra<g ref="char:EOLhyphen"/>ction, some are become contemners of Gods word, some are dispisers of Gods Ministers; some there are that wish for wars, and too too few there be amongst us, which doe pra<g ref="char:EOLhyphen"/>ctice for true peace.</p>
+            <p>Yet I feare there are many that will lift up their hands and eies towards heaven, and cry peace, peace, when their hearts are alto<g ref="char:EOLhyphen"/>gether inclined to war, but they that are de<g ref="char:EOLhyphen"/>sirous to injoy the sweet and bountifull blessings of a happy peace, must practice for it in their lives and conversations.</p>
+            <p>But to go forward with that which is al<g ref="char:EOLhyphen"/>ready begun; We see poore bleeding Eng<g ref="char:EOLhyphen"/>land is already become her own enemy, and most grievously wounded with her owne weapons, sin and iniquity being the first be<g ref="char:EOLhyphen"/>ginners of this quarrell.</p>
+            <p>If we read and make good use of the Scri<g ref="char:EOLhyphen"/>ptures, we may find that many great Cities
+<pb n="7" facs="tcp:211655:6"/>and Kingdomes, have quite been plucked up by the roots for sinne, and no memory left of them, but onely here they lived, or here they stood: and can English men and wo<g ref="char:EOLhyphen"/>men then thinke daily to runne forward in their unrepented sins, without any intermis<g ref="char:EOLhyphen"/>sion or sorrow for the same. Hath Sathan so much blinded our eyes, and hardened our hearts, that our hearts cannot be mollified; nor our eyes shed forth some showers of teares to coole the heate of Gods fire? hath the alterations of times, and changes of o<g ref="char:EOLhyphen"/>pinions, so corrupted our Nation, that we prefer blood-shed before peace, dis-loyalty before obedience, perjury before truth, and sin before repentance; then are wee yet in a miserable condition: It is said that when the Lord is angry with sinners, he holds three whips in his hand; which three whips are, pestilence, the sword, and famine, yet he ne<g ref="char:EOLhyphen"/>ver drawes blood with them, till such time our faults are many, and our sinnes hai<g ref="char:EOLhyphen"/>nous.</p>
+            <p>We have here in England felt the smart of two of Gods whips very lately; pestilence &amp; the sword, hath already drawn blood, &amp; the scourge of famine is like to follow after, ex<g ref="char:EOLhyphen"/>cept the Lord bee more mercifull unto us:
+<pb n="8" facs="tcp:211655:7"/>do we not see that all manner of corne, and victuals, is at such an excessive rate, insomuch that both in the City and Country, many poore people perish through want of food; do we not likewise see, that amongst trades<g ref="char:EOLhyphen"/>men, that trading grows so dead, that no monies is to bee got? Doe wee not know, that since the times are changed from better to worse, that rich mens hearts are changed from flesh to flint, and that they hold it a poynt of Popery, to bestow any charity up<g ref="char:EOLhyphen"/>on the poore: All which doth prognosti<g ref="char:EOLhyphen"/>cate a fearfull <hi>Ʋnhappy Change</hi> in <hi>England.</hi> Now therefore, 'tis high time, for us to turn unto the Lord, by prayer, and mourning; let us consider this, and lay it to heart, how that the Lord would not have destroyed the City of <hi>Sodome</hi> with fire and brimstone, had they repented.</p>
+            <p>Neither would hee have drowned the world in the time of <hi>Noah,</hi> had the people truely repented, <hi>Gen.</hi> 19.24. And had not we disobeyed the will of God, these miseries which we now indure, had not befaln us.</p>
+            <p>When wee injoyed the blessing of sweet peace, which is the very life of a Kingdom, we could not be cōtent, we could not praise God for his blessings, and now for our un<g ref="char:EOLhyphen"/>thankfullnes,
+<pb n="19" facs="tcp:211655:7"/>the Lord hath sent the sword amongst us, which hath changed our former peace, into a bloody war: and except we repent, we are all like to perish.</p>
+            <p>Wherfore I desire your christian patience to marke and make good use of these fol<g ref="char:EOLhyphen"/>ing lines, wherein shal be exprest particular<g ref="char:EOLhyphen"/>ly, the manner of those bloody and unnatu<g ref="char:EOLhyphen"/>rall civill wars, together with the troubles, vexations, and distractions, which are now in our Kingdome of <hi>England.</hi>
+            </p>
+            <div type="part">
+               <head>Here followeth a briefe Description of <hi>Englands</hi> bleeding miseries, tis very well worth the obser<g ref="char:EOLhyphen"/>vation, and worthy to be kept in memory.</head>
+               <p>IT is very well knowne, to many in this Kingdome of <hi>England,</hi> that not long since, we had great hopes of a safe &amp; well groun<g ref="char:EOLhyphen"/>ded peace, and that the Souldiers should be totally disbanded, but alasse, there is no such thing like to be performed nor is the world one jot better; but rather worse then ever it was, and we may well be sure that the Lord is angry with us for our wicked doings.</p>
+               <p>We may justly say with the lamenting Pro<g ref="char:EOLhyphen"/>phet, the Lord hath a controversie with the
+<pb n="10" facs="tcp:211655:8"/>habitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land, by swearing, and lying, and killing, and stealing and whoring, they break out, and blood hath touched blood, <hi>Hosea</hi> 4.1, 2.</p>
+               <p>Tis true, but I would to God it were false, that blood hath touched blood, and that very deeply, there is never a County, Shire, nor Ci<g ref="char:EOLhyphen"/>ty in <hi>England,</hi> from the Mount in <hi>Cornwall</hi> in the West, to the town of <hi>Barwick</hi> in the North but hath tasted and dearly paid, for this bloo<g ref="char:EOLhyphen"/>dy cup of civill war.</p>
+               <p>Whereby some have lost their goods, some have lost their lives; and many thousands have lost both goods &amp; lives: so that the coun<g ref="char:EOLhyphen"/>try people in many places did not know what to do, nor whether to run to hide themselves from the terrible stroak of death.</p>
+               <p>At night, when men should have taken their rest, the Drums did beat up their martiall al<g ref="char:EOLhyphen"/>larums, and the Trumpets did sound forth their dolefull musick of bloody designes.</p>
+               <p>By Day, when men should goe to their la<g ref="char:EOLhyphen"/>bour, their cattle and horses were taken up for service, and the two great armies in the bowels of our Kingdome, were continually preparing for battaile.</p>
+               <p>And this was the only cause of our sorrows
+<pb n="11" facs="tcp:211655:8"/>and troubles; and had it not bin for this, there would not have bin so many newses of taking of Towns, firing of Houses, plundering of Ci<g ref="char:EOLhyphen"/>ties, ravishing of Women, and deflowring of Virgins: had it not been for these Wars, there had not bin so many Lords, Knights, Colonels, and Captains imprisoned, nor so many inno<g ref="char:EOLhyphen"/>cent people have lost their lives.</p>
+               <p>Those unnaturall civill wars, hath made ma<g ref="char:EOLhyphen"/>ny woful mothers to bewail the death of their slain sons, many sisters to mingle teares with their brothers blood: many fatherlesse children to want good nourishment: And many a mournfull widdow to sit weeping all alone for want of the company of her late deceased husband.</p>
+               <p>Moreover the consideration of these late ex<g ref="char:EOLhyphen"/>tremities makes the Kingdomes of <hi>England</hi> &amp; <hi>Scotland,</hi> together with the Principality of <hi>Wales,</hi> and Dutchy of <hi>Cornwall,</hi> stand great<g ref="char:EOLhyphen"/>ly in feare. For why, if these unnaturall ci<g ref="char:EOLhyphen"/>vill Warres should goe forward, as God for<g ref="char:EOLhyphen"/>bid they should, there is no man can tell how long, nor how little a while hee shall enjoy that hee hath now in possession, for that which is wonne to day, may bee lost to morrow: The Peere is not certain of his Land, the rich Man of his Estate, The Citizens of their
+<pb n="12" facs="tcp:211655:9"/>merchandize, the tradesman of his calling, nor the poore man of his life, of this we have al<g ref="char:EOLhyphen"/>ready had woful experience, and by the means of this home-bred warres, have many thou<g ref="char:EOLhyphen"/>sands of <hi>English</hi> men perished by the sword: one friend fighting against another.</p>
+               <p>It is knowne that since these rumours be<g ref="char:EOLhyphen"/>gan in <hi>England,</hi> that the Father hath fought against his owne sonne, the sonne against his father, brother, against brother; friend, a<g ref="char:EOLhyphen"/>gainst friend; neighbour, against neighbour; and one Citizen against the other; and they that heretofore were loving friends are now become mortall enemies: A proofe whereof is plainly to be seen between the <hi>English,</hi> and the <hi>Scots,</hi> who when at first they injoyned and united themselves together, they tooke both one Covenant, they bore armes both on one behalfe, they went both under one pay, or promise, they fought both against one Party, and now through diversity of opinions, and some other unknowne causes, are these old friends become new enemies, and as it is sup<g ref="char:EOLhyphen"/>posed by many, there will sudden changes be between them and us.</p>
+               <p>Seeing then that nothing but fire and sword, wrath, and revenge, blood-shed, and slaugh<g ref="char:EOLhyphen"/>ter is threatned amongst us, what then re<g ref="char:EOLhyphen"/>maines
+<pb n="13" facs="tcp:211655:9"/>but that we send up our humble petiti<g ref="char:EOLhyphen"/>ons, for peace and truth, unto the God of peace, who is able in a moment of time, to change sorrowes into joy, and warre into peace.</p>
+            </div>
+            <div type="part">
+               <head>Here followeth the faithfull-hearted Subjects, Humble Petition, for Peace, which hee preferreth to the Almighty Lord and King of Hea<g ref="char:EOLhyphen"/>ven and Earth.</head>
+               <epigraph>
+                  <q>
+                     <bibl>Psal. 95.6.</bibl> O come, let us worship and bowe down: and kneele before the Lord our Maker.</q>
+               </epigraph>
+               <p>O THOU eternall and everliving Lord God, of Heaven and Earth, in whom we live, move, and have our beeing, thou whom the Windes, and Seas obey, in whose power<g ref="char:EOLhyphen"/>full hands, are all the corners of the earth; we thy poore distressed people, and children, doe in all humility of spirit, send up our Petitions unto the Throne of thy divine Majesty, desir<g ref="char:EOLhyphen"/>ing upon the bended knees of our penitent
+<pb n="14" facs="tcp:211655:10"/>hearts that thou wilt be pleased to hear and graciously to answer, these our supplicati<g ref="char:EOLhyphen"/>ons which we make unto thee.</p>
+               <p>We do acknowledge, O Lord, that our sins have deserved eternall destruction, both of our bodies and soules. And those plagues and warres which thou hast sent upon this Kingdom, are but gentle corrections, in re<g ref="char:EOLhyphen"/>gard of our manifold transgressions which we have committed against thee.</p>
+               <p>Neverthelesse, good Lord, although our sinnes are so many and so greivous, wee be<g ref="char:EOLhyphen"/>seech thee for thy tender mercies sake, to behold us with the eye of pitty, and pacify these civill out-rages which are spread through this land: and if it be thy blessed wil, take away this bloody cup from our sinfull Nation: let us not perish by the sword: as thousands of our neighbours, friends, and kindred have already done: it is onely in thy power O Lord, to save us or to destroy us.</p>
+               <p>The Kingly Prophet <hi>David,</hi> plainly doth confesse that it lies not in the power of man, nor in the strength of Elephants, to conquer and subdue, but in the hands of the Lord, that raiseth up, and pulleth down, so that if the Lord be on our side, though ten thou<g ref="char:EOLhyphen"/>sand
+<pb n="15" facs="tcp:211655:10"/>times ten thousand should set them<g ref="char:EOLhyphen"/>selves against us, wee need not feare: but if the Lords anger be kindled against us, what flesh is able to indure his wrath.</p>
+               <p>Therefore againe, and again, we pray thee that thou wilt once more stop the mouth of this devouring monster, civill War, and let true peace return with speed, unto her old acquaintance, and have a settled habitation in and throughout the Dominions of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> and <hi>Ireland.</hi>
+               </p>
+               <p>Lord send us such a peace as may indure among us, so long as our lives indure, and consequently, let the sweet blessing of true peace, continue in this Kingdom from ge<g ref="char:EOLhyphen"/>neration to generation, till the whole world shall be dissolved: And for the better supply of this peace so long hoped for, good God send a speedy union between the Kings most Excellent Majesty and the Parliament, to the lasting joy and comfort of all his true-hear<g ref="char:EOLhyphen"/>ted Subjects, which doe heartily love our Royall King <hi>Charles,</hi> and his hopefull off-spring.</p>
+               <p>Adde years to his dayes, O Lord, as thou didst unto that good King <hi>Hezekiah;</hi> in due him with <hi>Samsons</hi> strength, <hi>Davids</hi> valour, &amp; <hi>Solomons</hi> wisdome: So that hee may be a
+<pb n="16" facs="tcp:211655:11"/>maintainer of true Religion, a surpriser of Superstition, a lover of his friends, and a terror to his enemies. So that <hi>Charles</hi> our King, and wee his Subjects, may spend the the rest of our daies in Peace and Unitie, to Gods great glory, and our owne Soules happinesse: To the which, let all good peo<g ref="char:EOLhyphen"/>ple say,</p>
+               <closer>Amen</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:211655:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
